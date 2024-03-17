@@ -2,7 +2,7 @@
 
 In this project we will create a machine learning model, using the Linear Regression technique, that makes predictions about property prices based on a set of known property characteristics.
 
-### Data Source
+#### Data Source
 Let's use a dataset available on [Kaggle](https://www.kaggle.com/greenwing1985/housepricing). This dataset was modified to facilitate our objective, which is to put into practice the knowledge acquired in the Linear Regression training offered by Alura, which is a platform for courses focused on Data Science.
 
 #### Data:
@@ -16,3 +16,6 @@ Let's use a dataset available on [Kaggle](https://www.kaggle.com/greenwing1985/h
     <li><b>andares</b> - Se o imóvel possui mais de um andar (1) ou não (0)</li>
 </ul>
 
+
+#### Extra
+After the analysis, we created a kind of form, in which we filled in values for each characteristic of a property, such as area, bathrooms, garage and so on. Once we fill in the fields, we will have a simulation of the cost of this property.
